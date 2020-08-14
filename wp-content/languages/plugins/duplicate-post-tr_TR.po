@@ -1,0 +1,221 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-13 18:46:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#: duplicate-post-admin.php:890
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+#: duplicate-post-options.php:437
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "çok özel ihtiyaçlarınız olmadıkça, büyük olasılıkla bunun işaretli olmasını istemezsiniz"
+
+#: duplicate-post-options.php:788
+msgid "Show update notice"
+msgstr "Güncelleme uyarısını göster"
+
+#: duplicate-post-options.php:390
+msgid "Featured Image"
+msgstr "Öne çıkan görsel"
+
+#: duplicate-post-options.php:399
+msgid "Template"
+msgstr "Şablon"
+
+#: duplicate-post-options.php:408
+msgctxt "post format"
+msgid "Format"
+msgstr "Biçim"
+
+#: duplicate-post-options.php:417
+msgid "Author"
+msgstr "Yazar"
+
+#: duplicate-post-options.php:466
+msgid "Menu order"
+msgstr "Menü sırası"
+
+#: duplicate-post-options.php:716
+msgid "Bulk Actions"
+msgstr "Toplu İşlemler"
+
+#: duplicate-post-options.php:528
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Sıfır ya da daha fazla alfanumerik karakter veya alt tire ile eşlenmesi için * kullanabilirsiniz: örn. alan*"
+
+#. translators: %s: number
+#: duplicate-post-admin.php:901
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s öge kopyalandı."
+msgstr[1] "%s öge kopyalandı."
+
+#: duplicate-post-options.php:568
+msgid "Show/hide private taxonomies"
+msgstr "Özel sınıflandırmaları göster/gizle"
+
+#: duplicate-post-options.php:457
+msgid "except pingbacks and trackbacks"
+msgstr "geri bildirim ve geri izlemeler hariç"
+
+#: duplicate-post-options.php:312 duplicate-post-options.php:661
+msgid "Display"
+msgstr "Göster"
+
+#: duplicate-post-options.php:303 duplicate-post-options.php:581
+msgid "Permissions"
+msgstr "İzinler"
+
+#: duplicate-post-options.php:294 duplicate-post-options.php:321
+msgid "What to copy"
+msgstr "Ne kopyalanacak"
+
+#: duplicate-post-options.php:363
+msgid "Slug"
+msgstr "Kısa isim"
+
+#: duplicate-post-options.php:511
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Orijinal menü sıralamasına bu numarayı ekleyin (değeri korumak için boş bırakın ya da sıfır yazın)"
+
+#: duplicate-post-options.php:503
+msgid "Increase menu order by"
+msgstr "Menü sırasını şu kadar artır"
+
+#: duplicate-post-options.php:426
+msgid "Password"
+msgstr "Parola"
+
+#: duplicate-post-options.php:381
+msgid "Content"
+msgstr "İçerik"
+
+#: duplicate-post-options.php:456
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: duplicate-post-options.php:446
+msgid "Children"
+msgstr "Çocuklar"
+
+#: duplicate-post-options.php:436
+msgid "Attachments"
+msgstr "Ekler"
+
+#: duplicate-post-options.php:372
+msgid "Excerpt"
+msgstr "Özet"
+
+#: duplicate-post-options.php:336
+msgid "Title"
+msgstr "Başlık"
+
+#: duplicate-post-options.php:354
+msgid "Status"
+msgstr "Durum"
+
+#: duplicate-post-options.php:345
+msgid "Date"
+msgstr "Tarih"
+
+#: duplicate-post-admin.php:218
+msgid "Dismiss this notice."
+msgstr "Uyarıyı gizle."
+
+#: duplicate-post-admin.php:775
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Bu gönderi tipinin kopya özellikleri, seçenekler sayfasında etkinleştirilmemiş"
+
+#: duplicate-post-options.php:624 duplicate-post-options.php:627
+msgid "Enable for these post types"
+msgstr "Bu yazı türleri için etkinleştir"
+
+#: duplicate-post-options.php:324 duplicate-post-options.php:327
+msgid "Post/page elements to copy"
+msgstr "Kopyalama için yazı/sayfa ögeleri"
+
+#: duplicate-post-options.php:496
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Başlıktan sonra eklenecek son ek, örneğin \"(kopya)\" (son ek istemiyorsanız boş bırakın)"
+
+#: duplicate-post-options.php:481
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Başlıktan önce eklenecek ön ek, örneğin \"Kopyası\" (ön ek istemiyorsanız boş bırakın)"
+
+#: duplicate-post-options.php:701
+msgid "Admin bar"
+msgstr "Yönetici çubuğu"
+
+#. Description of the plugin
+msgid "Clone posts and pages."
+msgstr "Yazıları ve sayfaları klonlayın"
+
+#: duplicate-post-admin.php:556
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopya oluşturulamadı, orijinali bulunamadı:"
+
+#: duplicate-post-admin.php:485 duplicate-post-common.php:78
+#: duplicate-post-common.php:170 duplicate-post-common.php:182
+msgid "Copy to a new draft"
+msgstr "Yeni bir taslağa kopyala"
+
+#: duplicate-post-options.php:518
+msgid "Do not copy these fields"
+msgstr "Bu alanları kopyalama"
+
+#: duplicate-post-options.php:689
+msgid "Edit screen"
+msgstr "Düzenleme ekranı"
+
+#: duplicate-post-admin.php:468
+msgid "New Draft"
+msgstr "Yeni Taslak"
+
+#: duplicate-post-admin.php:516
+msgid "No post to duplicate has been supplied!"
+msgstr "Çoğaltılacak yazı yok!"
+
+#: duplicate-post-options.php:678
+msgid "Post list"
+msgstr "Yazı listesi"
+
+#: duplicate-post-options.php:585 duplicate-post-options.php:588
+msgid "Roles allowed to copy"
+msgstr "Kopyalamaya yetkili roller"
+
+#: duplicate-post.php:61
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: duplicate-post-options.php:664 duplicate-post-options.php:667
+msgid "Show links in"
+msgstr "Bağlantıları göster"
+
+#: duplicate-post-options.php:473
+msgid "Title prefix"
+msgstr "Başlık öneki"
+
+#: duplicate-post-options.php:488
+msgid "Title suffix"
+msgstr "Başlık soneki"
+
+#: duplicate-post-options.php:52
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: duplicate-post-options.php:534 duplicate-post-options.php:538
+msgid "Do not copy these taxonomies"
+msgstr "Bu sınıflandırmaları kopyalama"
+
+#: duplicate-post-admin.php:925
+msgid "Clone"
+msgstr "Çoğalt"
